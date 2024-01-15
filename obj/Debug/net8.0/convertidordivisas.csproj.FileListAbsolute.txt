@@ -1,0 +1,14 @@
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.AssemblyInfoInputs.cache
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.AssemblyInfo.cs
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.csproj.CoreCompileInputs.cache
+E:\Users\34661\source\repos\convertidordivisas\bin\Debug\net8.0\convertidordivisas.exe
+E:\Users\34661\source\repos\convertidordivisas\bin\Debug\net8.0\convertidordivisas.deps.json
+E:\Users\34661\source\repos\convertidordivisas\bin\Debug\net8.0\convertidordivisas.runtimeconfig.json
+E:\Users\34661\source\repos\convertidordivisas\bin\Debug\net8.0\convertidordivisas.dll
+E:\Users\34661\source\repos\convertidordivisas\bin\Debug\net8.0\convertidordivisas.pdb
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.dll
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\refint\convertidordivisas.dll
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.pdb
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\convertidordivisas.genruntimeconfig.cache
+E:\Users\34661\source\repos\convertidordivisas\obj\Debug\net8.0\ref\convertidordivisas.dll
